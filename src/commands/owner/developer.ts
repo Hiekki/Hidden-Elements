@@ -20,7 +20,7 @@ export default class Developer extends Command<Bot> {
         });
 
     developerOnly = true;
-    guilds = ['579304983896391680'];
+    guilds = ['140415236111859712'];
 
     async handleCommand(caller: Bot, command: CommandInteraction) {
         try {
